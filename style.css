@@ -59,9 +59,6 @@
 .logoteam-pin2{
 	text-align: center;
 }
-.tendoituyen{
-	display: inline;
-}
 .doituyen{
 	padding: 20px 0 100px 0;
 }
@@ -93,16 +90,18 @@
 	color: white;
 	display: inline;
 }
-.logoyt{
-	padding-top: 15px;
+.youtubeVETV{
+	padding-top:10px;
 }
+
 .Standing{
 	padding-top: 100px;
-	height: 550px;
+	height: 600px;
 }
 	.top1{
 	text-align: center;
-	float: left;	
+	float: left;
+	padding-top: 30px;
 	}
 	.Standing h4{
 	font-size: 60px;
@@ -117,6 +116,7 @@
 .top2-8{
 	text-align: right;
 	float: right;
+	padding-top: 50px;
 }
 	.standing-text{
 	text-align: right;
@@ -157,4 +157,112 @@
 	font-size: 10px;
 	color: white;
 	
+}
+.MVPxnews {
+	height: 600px;
+	background-image: url("background-mvp.jpg");
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+.MVPtext {
+	text-align: center;
+	color: #C8630B;
+	padding-top: 60px;
+	font-size: 60px;
+	font-family: 'Chakra Petch', sans-serif;	
+}
+
+.MVPbox-overview{
+	width: 224px;
+	height: 330px;
+		
+}
+
+.MVPlist{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.bg-box{
+	background-image: url("mvp-bg-box.png");
+	width: 224px;
+	height: 280px;	
+}
+.MVPbox-overview h5{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 20px;
+	padding-top: 3px;
+}
+.MVPbox-overview p{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 14px;
+}
+.MVPbox{
+	float: left;
+	padding:0 10px 0 5%;
+}
+.MVPbox2{
+	float: left;
+	padding:0 10px;
+}
+.MVPbox3{
+	float: left;
+	padding:0 10px;
+}
+.MVPbox4{
+	float: left;
+	padding:0 10px;
+}
+.MVPbox5{
+	float: left;
+	padding:0 10px;	
+}
+
+.MVPbox2 h5{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 20px;
+	padding-top: 3px;
+}
+.MVPbox2 p{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 14px;
+}
+.MVPbox3 h5{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 20px;
+	padding-top: 3px;
+}
+.MVPbox3 p{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 14px;
+}
+.MVPbox4 h5{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 20px;
+	padding-top: 3px;
+}
+.MVPbox4 p{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 14px;
+}
+.MVPbox5 h5{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 20px;
+	padding-top: 3px;
+}
+.MVPbox5 p{
+	text-align: center;
+	font-family: 'Chakra Petch', sans-serif;
+	font-size: 14px;
 }
