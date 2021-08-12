@@ -53,6 +53,7 @@
 .logoteam {
 	padding-top: 30px;
 }
+
 .logoteam-pin1{
 	text-align: center;
 }
@@ -85,6 +86,7 @@
 }
 .vetvlive {
 	padding-top: 10px;
+	
 }
 .livestream h4{
 	color: white;
@@ -92,6 +94,7 @@
 }
 .youtubeVETV{
 	padding-top:10px;
+	display: inline-block;
 }
 
 .Standing{
@@ -152,7 +155,7 @@
 .MVPtext {
 	text-align: center;
 	color: #C8630B;
-	padding-top: 80px;
+	padding-top: 90px;
 	font-size: 60px;
 	font-family: 'Chakra Petch', sans-serif;	
 }
@@ -250,10 +253,34 @@
 	font-family: 'Chakra Petch', sans-serif;
 	font-size: 14px;
 }
+
+.offical-sponsor{
+	background-image: url("bg-sponsor.jpg");
+	background-position: center;
+	background-size: cover;	
+	height: 600px;
+}
+.offical-sponsor h3{
+	text-align: center;
+	color: #ffffff;
+	padding-top: 180px;
+	font-size: 25px;
+	font-family: 'Chakra Petch', sans-serif;		
+}
+.logo-shopee{
+	text-align: center;
+	padding-top: 20px;
+}
+.effect-logo img{
+	text-align: center;transition: all .3s ease;
+}
+.effect-logo img:hover{
+	transform: scale(1.1);
+}
 .footer {
 	background-color: #030303;
 	position: relative;
-	height: 250px;
+	height: 230px;
 }
 .logo-riotxgarena{
 	padding-top: 50px;
@@ -267,3 +294,5 @@
 	font-size: 10px;
 	color: white;
 }
+
+
