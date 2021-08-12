@@ -116,7 +116,7 @@
 .top2-8{
 	text-align: right;
 	float: right;
-	padding-top: 55px;
+	padding-top: 50px;
 }
 	.standing-text{
 	text-align: right;
@@ -140,24 +140,7 @@
 	font-family: 'Roboto Condensed', sans-serif;
 	color: #c8630b;
 }
-.footer {
-	background-color: #030303;
-	position: relative;
-	height: 200px;
-}
-.logo-riotxgarena{
-	padding-top: 80px;
-	float: left;	
-}
-.information{
-	padding-top: 60px;
-	text-align: right;
-}
-.footer p{
-	font-size: 10px;
-	color: white;
-	
-}
+
 .MVPxnews {
 	height: 600px;
 	background-image: url("background-mvp.jpg");
@@ -169,26 +152,28 @@
 .MVPtext {
 	text-align: center;
 	color: #C8630B;
-	padding-top: 60px;
+	padding-top: 80px;
 	font-size: 60px;
 	font-family: 'Chakra Petch', sans-serif;	
 }
 
 .MVPbox-overview{
-	width: 224px;
-	height: 330px;
-		
+	text-align: center;
+}
+
+.MVPPP{
+	display: inline-block;	
 }
 
 .MVPlist{
 	text-align: center;
-	padding-top: 20px;
 }
 
 .bg-box{
 	background-image: url("mvp-bg-box.png");
+	text-align: center;
 	width: 224px;
-	height: 280px;	
+	height: 280px;
 }
 .MVPbox-overview h5{
 	text-align: center;
@@ -201,27 +186,26 @@
 	font-family: 'Chakra Petch', sans-serif;
 	font-size: 14px;
 }
-.MVPbox{
-	float: left;
-	padding:0 10px 0 5%;
-}
-.MVPbox2{
-	float: left;
-	padding:0 10px;
-}
-.MVPbox3{
-	float: left;
-	padding:0 10px;
-}
-.MVPbox4{
-	float: left;
-	padding:0 10px;
-}
-.MVPbox5{
-	float: left;
-	padding:0 10px;	
-}
-
+	.MVPbox{
+		float: left;
+		padding: 0 20px 0 0;
+	}
+	.MVPbox2{
+		float: left;
+		padding: 0 20px 0 0;
+	}
+	.MVPbox3{
+		float: left;
+		padding: 0 20px 0 0;
+	}
+	.MVPbox4{
+		float: left;
+		padding: 0 20px 0 0;
+	}
+	.MVPbox5{
+		float: left;
+		padding: 0 20px 0 0;
+	}
 .MVPbox2 h5{
 	text-align: center;
 	font-family: 'Chakra Petch', sans-serif;
@@ -265,4 +249,21 @@
 	text-align: center;
 	font-family: 'Chakra Petch', sans-serif;
 	font-size: 14px;
+}
+.footer {
+	background-color: #030303;
+	position: relative;
+	height: 250px;
+}
+.logo-riotxgarena{
+	padding-top: 50px;
+	text-align: center;
+}
+.information{
+	padding-top: 20px;
+	text-align: center;
+}
+.footer p{
+	font-size: 10px;
+	color: white;
 }
