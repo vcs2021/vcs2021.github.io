@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "Lato", sans-serif;
+}
+a:link {
+color:#ffffff;
+background-color:transparent;
+text-decoration:none;
+}
+a:visited {
+color:#ffffff;
+background-color:transparent;
+text-decoration:none;
+}
+a:hover {
+color:#ffffff;
+background-color:transparent;
+text-decoration:underline;
+}
+a:active {
+color:#ffffff;
+background-color:transparent;
+text-decoration:underline;
+}
+.nav {
+	background-color: #030303;
+	height: 90px;
+	padding-left: 100px;
+	padding-top: 10px
+}
+.nav img{
+	float: top;
+	padding-left: 70px;
+	background-size: 60px;
+}
+.nav ul li{
+	color: white;
+	display: inline;
+	font-size: 20px;
+	padding: 0 25px;	
+}
+.nav ul{
+	float: right;
+	padding-top: 30px;
+	padding-right: 120px;
+}
+.content-schedule {
+	background-image: url("banner-stream.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 800px;
+}
+.content-schedule h3{
+	color: #C8630B;
+	padding-top: 130px;
+	font-size: 60px;
+	font-family: 'Chakra Petch', sans-serif;
+}
+.content-schedule p{
+	color: white;
+	font-size: 18px;
+	font-family: 'Chakra Petch', sans-serif;
+}
+.canle {
+	padding-right: 15%;
+	padding-left: 15%;
+}
+.vetvlive {
+	padding-top: 10px;
+	
+}
+
+.footer {
+	background-color: #030303;
+	position: relative;
+	height: 230px;
+}
+.logo-riotxgarena{
+	padding-top: 50px;
+	text-align: center;
+}
+.information{
+	padding-top: 20px;
+	text-align: center;
+}
+.footer p{
+	font-size: 10px;
+	color: white;
+}
+

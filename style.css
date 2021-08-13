@@ -4,6 +4,26 @@
 	margin: 0;
 	font-family: "Lato", sans-serif;
 }
+a:link {
+color:#ffffff;
+background-color:transparent;
+text-decoration:none;
+}
+a:visited {
+color:#ffffff;
+background-color:transparent;
+text-decoration:none;
+}
+a:hover {
+color:#ffffff;
+background-color:transparent;
+text-decoration:underline;
+}
+a:active {
+color:#ffffff;
+background-color:transparent;
+text-decoration:underline;
+}
 .content {
 	background-color: #E9DCCD;
 	position: relative;
